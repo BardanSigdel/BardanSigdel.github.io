@@ -101,4 +101,4 @@
 
 - **LinkedIn:** https://www.linkedin.com/in/bardan-sigdel-ba055b9b
 - **Email:** bardan.sigdel@du.edu
-- **Email:** your.email@example.com
+
