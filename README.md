@@ -10,11 +10,13 @@
 ### **Grinnell College** - Grinnell, IA
 **Bachelor of Arts in Economics** (concentration in Global Development Studies)
 
+
 ## 🛠️ Skills
 
 - **Software and Programming:** Python, SQL, R Studio, HTML, Advanced Excel (VBA, Power Pivots), Hadoop, Power BI, Tableau, Visual Studio, Microsoft Visio, Management Packages (MS Project, Jira), Microsoft Azure (DP-900 Certified)
 - **Analytics:** ETL, Predictive Models, Linear Regression, Natural Language Processing, Association/Cluster Analysis, Process Optimization, Visualization, BI & Strategy Storytelling, Agile Methodologies
 - **Languages:** Nepali, Spanish, Hindi
+
 
 ## 💼 Professional Experience
 
@@ -41,6 +43,7 @@
 - Employed risk simulation analyses for product development strategies
 - Created and implemented a central company documentation repository
 
+
 ## 📊 Projects
 
 
@@ -56,6 +59,7 @@ Conducted an in-depth data analysis to explore the correlation between club expe
 ### Helen of Troy - Predictive Analysis
 Executed a predictive analysis for Helen of Troy's Health & Home division, analyzing the sales patterns of products under the Vicks & Braun portfolios in correlation with seasonal changes. Developed data-driven models to comprehend customer preferences, purchase patterns, and to formulate optimized product strategies. Advanced analytics and predictive modeling tools were leveraged to derive geographical demand curves and spot early indicators of demand trends during illness seasons.
 
+
 ## 🌟 Leadership & Engagement
 
 - **South Asian Culinary Fusion Curator & Instructor**
@@ -64,6 +68,7 @@ Executed a predictive analysis for Helen of Troy's Health & Home division, analy
 - **Vice-President at Grinnell International Student Organization** (2018-2019)
 - **Founder at Grinnell Soccer Coaching & Analytics Club** (2017-2020)
 - **Editor at Grinnell Economic Journal** (2019-2020)
+
 
 
 ## 📫 Contact Me
