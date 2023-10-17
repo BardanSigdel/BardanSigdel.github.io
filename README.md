@@ -1,5 +1,5 @@
 
-# Bardan Sigdel Projects and Consultancy
+# Projects and Consultancy
 
 ## 📚 Education
 
