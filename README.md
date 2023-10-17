@@ -1,8 +1,3 @@
-title: Bardan Sigdel
-#logo: /assets/img/headshot.png
-#description: BI Analyst and Data Strategist
-show_downloads: true
-theme: jekyll-theme-minimal
 
 # BardanSigdel.github.io
 
