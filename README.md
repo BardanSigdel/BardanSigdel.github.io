@@ -78,7 +78,7 @@ Executed a predictive analysis for Helen of Troy's Health & Home division, analy
 ### Bullet Co - Risk Assessment & Financial Projections for Shaker Design
 
 **Sources**:
-- **Business Proposal**: [BusinessProposal_TheBullet.pdf](https://BardanSigdel.github.io/tree/main/projects/BusinessProposal_TheBullet.pdf)
+- **Business Proposal**: [BusinessProposal_TheBullet.pdf](https://BardanSigdel.github.io/projects/BusinessProposal_TheBullet.pdf)
 - **Investment Simulation**: [InvestmentSimulationBulletSigdel.xlsx](https://BardanSigdel.github.io/tree/main/projects/InvestmentSimulationBulletSigdel.xlsx)
 - **Simulation Report**: [SimulationReportBullet.pdf](https://BardanSigdel.github.io/tree/main/projects/SimulationReportBullet.pdf)
 
