@@ -73,7 +73,7 @@ Executed a predictive analysis for Helen of Troy's Health & Home division, analy
 
 **Results**: Derived essential insights into the property market by county, revealing key areas for potential investment and identifying future market trends.
 
-
+--
 
 ### Bullet Co - Risk Assessment & Financial Projections for Shaker Design
 
@@ -90,10 +90,11 @@ Executed a predictive analysis for Helen of Troy's Health & Home division, analy
 
 **Results**: Furnished Bullet Co with a robust risk mitigation strategy and a detailed roadmap for product launch, underpinning an informed and confident market introduction.
 
+--
 
 ### Boulder Boulders - Data Warehousing for Soccer Club
 
-**Source**:
+**Sources**:
 - [Database Backup - BoulderBoulders](https://BardanSigdel.github.io/projects/BoulderBoulders.bak)
 - [SQL Scripts - BoulderBoulders](https://BardanSigdel.github.io/projects/BoulderBoulders.sql)
 - [Data Mart Analysis](https://BardanSigdel.github.io/projects/BoulderBouldersDMAnalysis.xlsx)
@@ -108,6 +109,7 @@ Championed the creation of a comprehensive data warehouse for Boulder Boulders, 
 
 **Results**: Constructed a fully functional data warehouse tailored for the soccer domain, ensuring optimal data structure and efficient retrieval capabilities. The resultant warehouse stands as an example of meticulous data engineering, paving the way for in-depth analyses and fostering data-driven decision-making for the club.
 
+--
 
 ### English Premier League Location-Success Correlation Analysis
 
