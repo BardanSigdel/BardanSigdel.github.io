@@ -63,42 +63,61 @@ Executed a predictive analysis for Helen of Troy's Health & Home division, analy
 
 ### County Home Sales Analysis
 
-**Source**: [County_Home_Sales.ipynb](#)
+**Source**: [CountySalesAnalysis.docx](https://BardanSigdel.github.io/projects/KingCountyRegression.docx)
 
 **Description**: Conducted a comprehensive analysis on the sales and pricing of homes in various counties, delivering actionable insights based on property type and regional trends. This project required a robust process of data cleaning, transforming, and visualization to ensure data accuracy and provide a detailed overview of market behavior.
 
 **Skills**: Data cleaning, data transformation, exploratory data analysis (EDA), trend analysis, statistical analysis, data visualization
 
-**Technology**: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.
+**Technology**: SPSS Modeler, Advanced Microsoft Excel, R, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Microsoft Visio, Tableau
 
 **Results**: Derived essential insights into the property market by county, revealing key areas for potential investment and identifying future market trends.
 
----
+
 
 ### Bullet Co - Risk Assessment & Financial Projections for Shaker Design
 
 **Sources**:
 - **Business Proposal**: [BusinessProposal_TheBullet.pdf](https://BardanSigdel.github.io/projects/BusinessProposal_TheBullet.pdf)
 - **Investment Simulation**: [InvestmentSimulationBulletSigdel.xlsx](https://BardanSigdel.github.io/projects/InvestmentSimulationBulletSigdel.xlsx)
-- **Simulation Report**: [SimulationReportBullet.pdf](https://BardanSigdel.github.io/tree/main/projects/SimulationReportBullet.pdf)
+- **Simulation Report**: [SimulationReportBullet.pdf](https://BardanSigdel.github.io/projects/SimulationReportBullet.pdf)
 
 **Description**: Spearheaded a rigorous risk assessment and financial projection initiative for Bullet Co's innovative shaker designs. By leveraging advanced simulation techniques, potential risks in manufacturing and market launch were identified. Financial projections were built, grounded on these assessments, to strategize a market introduction that maximizes ROI while mitigating potential downsides.
 
 **Skills**: Risk assessment, simulation modeling, financial projections, ROI analysis, manufacturing risk evaluation
 
-**Technology**: Python, Pandas, Financial Analysis Libraries, Simulation Tools
+**Technology**: Microsoft Visio, Power BI, RStudio, Python, Pandas, Financial Analysis Libraries, Simulation Tools
 
 **Results**: Furnished Bullet Co with a robust risk mitigation strategy and a detailed roadmap for product launch, underpinning an informed and confident market introduction.
 
----
 
-### EPL - English Premier League Analysis
+### Boulder Boulders - Data Warehousing for Soccer Club
 
-**Source**: [EPL_Analysis.ipynb](#)
+**Source**:
+- [Database Backup - BoulderBoulders](https://BardanSigdel.github.io/projects/BoulderBoulders.bak)
+- [SQL Scripts - BoulderBoulders](https://BardanSigdel.github.io/projects/BoulderBoulders.sql)
+- [Data Mart Analysis](https://BardanSigdel.github.io/projects/BoulderBouldersDMAnalysis.xlsx)
+- [Data Documentation](https://BardanSigdel.github.io/projects/DataDocumentationTemplate.xlsx)
 
-**Description**: Performed an in-depth analysis of the English Premier League, evaluating team performance, player statistics, and match outcomes over several seasons. This project involved sourcing vast datasets, cleaning and transforming the data, and deploying statistical methods to predict future game results and player performance.
+**Description**: 
+Championed the creation of a comprehensive data warehouse for Boulder Boulders, a hypothetical soccer club. Initiated with intricate data preparation stages, I harnessed advanced SQL scripting to systematically extract, transform, and load data. This rigorous ETL process culminated in the formation of agile data marts, designed with granular specifications to serve varying facets of the soccer club's operations. With an emphasis on scalability and user accessibility, this warehouse encapsulates rich datasets, ranging from player statistics to match outcomes, laying the groundwork for advanced analytics and strategic decisions.
 
-**Skills**: Data cleaning, data analysis, predictive modeling, data visualization, statistical analysis
+**Skills**: Data Preparation, ETL (Extract, Transform, Load), SQL Scripting, Data Mart Creation, Data Warehousing
+
+**Technology**: SQL, Microsoft Visio, Advanced Data Modeling Tools, Excel
+
+**Results**: Constructed a fully functional data warehouse tailored for the soccer domain, ensuring optimal data structure and efficient retrieval capabilities. The resultant warehouse stands as an example of meticulous data engineering, paving the way for in-depth analyses and fostering data-driven decision-making for the club.
+
+
+### English Premier League Location-Success Correlation Analysis
+
+**Sources**: 
+- **Correlation Analysis Visualization & Report** [EPL_Analysis.html](https://BardanSigdel.github.io/projects/EPL-Points-Correlation.html)
+- **Correlation Menu** [EPL_AnalysisMenu.html](https://BardanSigdel.github.io/projects/EPL-Points-Correlation-Menu.html)
+
+**Description**: Performed an in-depth analysis of the English Premier League, evaluating team performance, player statistics, and match outcomes over several seasons while pitting them against the teams' locations within the United Kingdom to locate correlations. This project involved sourcing vast datasets, cleaning and transforming the data, and deploying statistical methods to conduct correlation analyses and publish results.
+
+**Skills**: Data cleaning, data analysis, correlation modeling, data visualization, statistical analysis
 
 **Technology**: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Machine Learning Libraries
 
