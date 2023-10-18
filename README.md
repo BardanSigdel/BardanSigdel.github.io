@@ -79,7 +79,7 @@ Executed a predictive analysis for Helen of Troy's Health & Home division, analy
 
 **Sources**:
 - **Business Proposal**: [BusinessProposal_TheBullet.pdf](https://BardanSigdel.github.io/projects/BusinessProposal_TheBullet.pdf)
-- **Investment Simulation**: [InvestmentSimulationBulletSigdel.xlsx](https://BardanSigdel.github.io/tree/main/projects/InvestmentSimulationBulletSigdel.xlsx)
+- **Investment Simulation**: [InvestmentSimulationBulletSigdel.xlsx](https://BardanSigdel.github.io/projects/InvestmentSimulationBulletSigdel.xlsx)
 - **Simulation Report**: [SimulationReportBullet.pdf](https://BardanSigdel.github.io/tree/main/projects/SimulationReportBullet.pdf)
 
 **Description**: Spearheaded a rigorous risk assessment and financial projection initiative for Bullet Co's innovative shaker designs. By leveraging advanced simulation techniques, potential risks in manufacturing and market launch were identified. Financial projections were built, grounded on these assessments, to strategize a market introduction that maximizes ROI while mitigating potential downsides.
