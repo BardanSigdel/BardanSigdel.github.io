@@ -57,7 +57,7 @@ Executed a predictive analysis for Helen of Troy's Health & Home division, analy
 
 ### County Home Sales Analysis
 
-**Source**: [County_Home_Sales.ipynb](#) *(Replace `#` with your actual link)*
+**Source**: [County_Home_Sales.ipynb](#)
 
 **Description**: Conducted a comprehensive analysis on the sales and pricing of homes in various counties, delivering actionable insights based on property type and regional trends. This project required a robust process of data cleaning, transforming, and visualization to ensure data accuracy and provide a detailed overview of market behavior.
 
@@ -71,7 +71,7 @@ Executed a predictive analysis for Helen of Troy's Health & Home division, analy
 
 ### Bullet Co - Risk Assessment & Financial Projections for Shaker Design
 
-**Source**: [Bullet_Co_Shaker_Risk_Assessment.ipynb](#) *(Replace `#` with your actual link)*
+**Source**: [Bullet_Co_Shaker_Risk_Assessment.ipynb](#)
 
 **Description**: Spearheaded a rigorous risk assessment and financial projection initiative for Bullet Co's innovative shaker designs. By leveraging advanced simulation techniques, potential risks in manufacturing and market launch were identified. Financial projections were built, grounded on these assessments, to strategize a market introduction that maximizes ROI while mitigating potential downsides.
 
@@ -85,7 +85,7 @@ Executed a predictive analysis for Helen of Troy's Health & Home division, analy
 
 ### EPL - English Premier League Analysis
 
-**Source**: [EPL_Analysis.ipynb](#) *(Replace `#` with your actual link)*
+**Source**: [EPL_Analysis.ipynb](#)
 
 **Description**: Performed an in-depth analysis of the English Premier League, evaluating team performance, player statistics, and match outcomes over several seasons. This project involved sourcing vast datasets, cleaning and transforming the data, and deploying statistical methods to predict future game results and player performance.
 
