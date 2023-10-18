@@ -1,12 +1,15 @@
 
 # Business Analytics Portfolio
 
+---
+
 ## 📚 Education
 
 ### **University of Denver, Daniels College of Business** - Denver, CO
 **Master of Science in Business Analytics** - Expected March 2024
 - Complex Data Analysis, Predictive Analytics, Data Management Platforms, International Marketing, Project Management, Optimization, Data Mining and Visualization
 
+---
 
 ## 🛠️ Top Skills
 
@@ -14,25 +17,26 @@
 - **Analytics:** ETL, Predictive Models, Linear Regression, Natural Language Processing, Association/Cluster Analysis, Process Optimization, Visualization, BI & Strategy Storytelling, Agile Methodologies
 - **Languages:** Nepali, Spanish, Hindi
 
+---
 
 ## 💼 Professional Experience
 
-### **SPS Commerce** - Minneapolis, MN (Remote)
-**Customer Operations Business Analyst** (March 2023 – Present)
+### **SPS Commerce**
+**Customer Operations Business Analyst**
 - Led cross-functional groups in the development of SPS Automotive Aftermarket (AAM) cost reduction
 - Orchestrated post-acquisition CRM migration data reconciliation using textual analytics and hierarchical clustering
 - Automated visualization of buyer-vendor operational pipeline performances with SQL and Power BI
 - Utilized predictive analytics in Python and SPSS Modeler for revenue projections
 
-### **Helen of Troy** - Denver, CO
-**Business Intelligence Consultant** (June 2023 – Present)
+### **Helen of Troy**
+**Business Intelligence Consultant**
 - Spearheaded time-series project for Vicks and Braun portfolios for informed product strategies
 - Developed a robust ETL pipeline, integrating SQL and R Studio
 - Streamlined data management processes, reducing project delivery timeline
 - Collaborated with stakeholders like Nielsen & IQVIA for robust reporting systems
 
-### **SPS Commerce (formerly GCommerce, Inc.)** - Des Moines, IA (Remote)
-**Product Analyst** (July 2020 – February 2023)
+### **SPS Commerce (formerly GCommerce, Inc.)**
+**Product Analyst**
 - Drove BI-led product development for various national aftermarket vendors
 - Conducted business case and ROI analyses for product development strategies
 - Transformed technical feedback into actionable insights, improving product usage
@@ -40,6 +44,7 @@
 - Employed risk simulation analyses for product development strategies
 - Created and implemented a central company documentation repository
 
+---
 
 ## 📊 Consultancy Projects
 
@@ -52,6 +57,7 @@ Furthermore, I recognized the opportunity to refine our data architecture. Drawi
 ### Helen of Troy - Predictive Analysis
 Executed a predictive analysis for Helen of Troy's Health & Home division, analyzing the sales patterns of products under the Vicks & Braun portfolios in correlation with seasonal changes. Developed data-driven models to comprehend customer preferences, purchase patterns, and to formulate optimized product strategies. Advanced analytics and predictive modeling tools were leveraged to derive geographical demand curves and spot early indicators of demand trends during illness seasons.
 
+---
 
 ## 📊 Portfolio Projects
 
@@ -71,7 +77,10 @@ Executed a predictive analysis for Helen of Troy's Health & Home division, analy
 
 ### Bullet Co - Risk Assessment & Financial Projections for Shaker Design
 
-**Source**: [Bullet_Co_Shaker_Risk_Assessment.ipynb](#)
+**Sources**:
+- **Business Proposal**: [BusinessProposal_TheBullet.pdf](https://BardanSigdel.github.io/tree/main/projects/BusinessProposal_TheBullet.pdf)
+- **Investment Simulation**: [InvestmentSimulationBulletSigdel.xlsx](https://BardanSigdel.github.io/tree/main/projects/InvestmentSimulationBulletSigdel.xlsx)
+- **Simulation Report**: [SimulationReportBullet.pdf](https://BardanSigdel.github.io/tree/main/projects/SimulationReportBullet.pdf)
 
 **Description**: Spearheaded a rigorous risk assessment and financial projection initiative for Bullet Co's innovative shaker designs. By leveraging advanced simulation techniques, potential risks in manufacturing and market launch were identified. Financial projections were built, grounded on these assessments, to strategize a market introduction that maximizes ROI while mitigating potential downsides.
 
@@ -106,7 +115,7 @@ Executed a predictive analysis for Helen of Troy's Health & Home division, analy
 - **Founder at Grinnell Soccer Coaching & Analytics Club** (2017-2020)
 - **Editor at Grinnell Economic Journal** (2019-2020)
 
-
+---
 
 ## 📫 Contact Me
 
