@@ -1,5 +1,5 @@
 
-# Projects and Consultancy
+# Business Analytics Portfolio
 
 ## 📚 Education
 
@@ -7,13 +7,10 @@
 **Master of Science in Business Analytics** - Expected March 2024
 - Complex Data Analysis, Predictive Analytics, Data Management Platforms, International Marketing, Project Management, Optimization, Data Mining and Visualization
 
-### **Grinnell College** - Grinnell, IA
-**Bachelor of Arts in Economics** (concentration in Global Development Studies)
 
+## 🛠️ Top Skills
 
-## 🛠️ Skills
-
-- **Software and Programming:** Python, SQL, R Studio, HTML, Advanced Excel (VBA, Power Pivots), Hadoop, Power BI, Tableau, Visual Studio, Microsoft Visio, Management Packages (MS Project, Jira), Microsoft Azure (DP-900 Certified)
+- **Software and Programming:** Python, SQL, R Studio, HTML, IBM SPSS Modeler, Advanced Excel (VBA, Power Pivots), Hadoop, Power BI, Tableau, Visual Studio, Microsoft Visio, Management Packages (MS Project, Jira), Microsoft Azure (DP-900 Certified)
 - **Analytics:** ETL, Predictive Models, Linear Regression, Natural Language Processing, Association/Cluster Analysis, Process Optimization, Visualization, BI & Strategy Storytelling, Agile Methodologies
 - **Languages:** Nepali, Spanish, Hindi
 
@@ -44,7 +41,7 @@
 - Created and implemented a central company documentation repository
 
 
-## 📊 Projects
+## 📊 Consultancy Projects
 
 ### CRM Migration Data Reconciliation Project
 
@@ -55,15 +52,50 @@ Furthermore, I recognized the opportunity to refine our data architecture. Drawi
 ### Helen of Troy - Predictive Analysis
 Executed a predictive analysis for Helen of Troy's Health & Home division, analyzing the sales patterns of products under the Vicks & Braun portfolios in correlation with seasonal changes. Developed data-driven models to comprehend customer preferences, purchase patterns, and to formulate optimized product strategies. Advanced analytics and predictive modeling tools were leveraged to derive geographical demand curves and spot early indicators of demand trends during illness seasons.
 
-### Risk Analysis Project for The Bullet Co.
-Drafted an exhaustive business risk asssessment report for a Denver-based startup, building an avant-garde “smart” electronic mixed drink shaker intended to reshape the mixology domain by fusing advanced technology with contemporary design. To underpin the viability and potential of The Bullet, I implemented an array of risk assessment tools and techniques. Monte Carlo simulations were executed to understand potential financial outcomes, while sensitivity analyses identified key variables influencing the product's profitability. Extensive market research analytics, combined with SWOT and PESTEL analyses, provided a holistic view of the product's positioning in the marketplace. This multi-faceted approach ensured comprehensive risk mitigation strategies were in place, thus bolstering investor confidence. Prototype design software further aided in the visualization and iterative refinement of the product, while financial modeling tools facilitated the accurate projection of ROI and market demand.
 
-### Daniels MSBA Housing Analysis
-Utilized multivariate regression modeling to analyze housing prices in King County, WA and Denver County, CO. Advised the board of strategic development, confirming that housing prices were majorly influenced by square footage of living spaces, housing grade, and waterfront setting. Python and SPSS Modeler were extensively used to derive these insights.
+## 📊 Portfolio Projects
 
-### English Premier League Exploration using Python
-Conducted an in-depth data analysis to explore the correlation between club expenditure and success in the English Premier League since 1992. Utilizing Python for data exploration and statistical software for correlation analyses, the findings showcased a robust positive correlation between club expenditure and success. Additional geospatial analyses were performed to understand club location's influence on success, suggesting further research avenues.
+### County Home Sales Analysis
 
+**Source**: [County_Home_Sales.ipynb](#) *(Replace `#` with your actual link)*
+
+**Description**: Conducted a comprehensive analysis on the sales and pricing of homes in various counties, delivering actionable insights based on property type and regional trends. This project required a robust process of data cleaning, transforming, and visualization to ensure data accuracy and provide a detailed overview of market behavior.
+
+**Skills**: Data cleaning, data transformation, exploratory data analysis (EDA), trend analysis, statistical analysis, data visualization
+
+**Technology**: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.
+
+**Results**: Derived essential insights into the property market by county, revealing key areas for potential investment and identifying future market trends.
+
+---
+
+### Bullet Co - Risk Assessment & Financial Projections for Shaker Design
+
+**Source**: [Bullet_Co_Shaker_Risk_Assessment.ipynb](#) *(Replace `#` with your actual link)*
+
+**Description**: Spearheaded a rigorous risk assessment and financial projection initiative for Bullet Co's innovative shaker designs. By leveraging advanced simulation techniques, potential risks in manufacturing and market launch were identified. Financial projections were built, grounded on these assessments, to strategize a market introduction that maximizes ROI while mitigating potential downsides.
+
+**Skills**: Risk assessment, simulation modeling, financial projections, ROI analysis, manufacturing risk evaluation
+
+**Technology**: Python, Pandas, Financial Analysis Libraries, Simulation Tools
+
+**Results**: Furnished Bullet Co with a robust risk mitigation strategy and a detailed roadmap for product launch, underpinning an informed and confident market introduction.
+
+---
+
+### EPL - English Premier League Analysis
+
+**Source**: [EPL_Analysis.ipynb](#) *(Replace `#` with your actual link)*
+
+**Description**: Performed an in-depth analysis of the English Premier League, evaluating team performance, player statistics, and match outcomes over several seasons. This project involved sourcing vast datasets, cleaning and transforming the data, and deploying statistical methods to predict future game results and player performance.
+
+**Skills**: Data cleaning, data analysis, predictive modeling, data visualization, statistical analysis
+
+**Technology**: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Machine Learning Libraries
+
+**Results**: Developed predictive models for future match outcomes, provided valuable insights to stakeholders regarding team performance and player valuation.
+
+---
 
 ## 🌟 Leadership & Engagement
 
