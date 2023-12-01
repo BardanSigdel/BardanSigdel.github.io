@@ -61,6 +61,50 @@ Executed a predictive analysis for Helen of Troy's Health & Home division, analy
 
 ## 📊 Portfolio Projects
 
+### Soccer Transfer News Sentiment Analysis on 90Min
+
+## Description
+
+In the world of professional soccer, the transfer market is an intriguing affair that generates significant speculation and analysis. This project focuses on analyzing transfer news, particularly from the platform 90Min, which has become a prominent source for transfer-related information. The goal was to delve into thousands of articles spanning a three-year period, from June 2020 to August 2023, and uncover the predominant narratives and themes within these articles.
+
+## Key Objectives
+
+1. Investigate predominant themes in soccer transfer articles and analyze how they evolve over time.
+2. Examine how the sentiments expressed in soccer transfer articles on 90Min change over time and identify influencing factors.
+
+## Approach and Tools
+
+- Utilized Latent Dirichlet Allocation (LDA), a topic modeling technique, to uncover predominant themes in the textual data.
+- Conducted sentiment analysis to evaluate emotional shifts in articles.
+- Used the Bing lexicon to assign sentiment scores to the data.
+- Analyzed sentiment trends over time, particularly during key transfer windows.
+
+## Data Description
+
+- Dataset includes variables such as Article ID, Date, Title, Content, and Link for each article.
+- Prepared the data by preprocessing the textual content and creating a Document-Term Matrix (DTM) to quantify term frequencies.
+- Implemented LDA to identify hidden topics within the data.
+
+## Insights
+
+- Topic modeling revealed four main topics within the data, with distinct term distributions.
+- Sentiment analysis showed shifts in sentiment scores over the dataset period.
+- A notable sentiment spike occurred during the summer of 2021, coinciding with the opening of the summer transfer window.
+- The analysis laid the foundation for understanding how sentiments are distributed across different themes in transfer articles.
+
+## Future Directions
+
+- Explore unexamined factors influencing sentiment trends across topics.
+- Expand the dataset to cover the last 10 years of transfer articles from various sources.
+- Consider sentiment tracking during specific events or mega transfers.
+- Extend the analysis to Madrid-based newspapers in Spanish.
+
+## Links
+
+- [R Code]
+- [Blog Post](https://www.blogger.com/blog/post/edit/88090989548645949/2168749426529434470)
+
+
 ### County Home Sales Analysis
 
 **Source**: [CountySalesAnalysis.docx](https://BardanSigdel.github.io/projects/KingCountyRegression.docx)
